@@ -1,4 +1,4 @@
-/* efectos por defecto */
+
 body {
     font-family: 'Overpass', sans-serif;
     font-weight: normal;
@@ -9,7 +9,6 @@ body {
     background-color: #5f6769;
 }
 
-/* efectos para el contenedor de pantalla completa */
 #contenedor {
     display: flex;
     align-items: center;
@@ -27,7 +26,7 @@ body {
     background-size: cover;
 }
 
-/* contenedor del login a la izquierda */
+
 #contenedorcentrado {
     display: flex;
     align-items: center;
@@ -55,7 +54,7 @@ body {
     box-sizing: border-box;
 }
 
-/* formulario de login */
+
 /* formulario de login */
 #login {
     width: 100%;
