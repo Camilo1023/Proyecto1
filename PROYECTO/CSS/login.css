@@ -195,8 +195,7 @@ hr {
 
         background-color: #5f6769;
 
-        /*opacity: 0.50;
-        filter: alpha(opacity=50);*/
+     
 
         border-radius: 10px 10px 10px 10px;
         -moz-border-radius: 10px 10px 10px 10px;
@@ -222,5 +221,3 @@ hr {
         text-align: left;
     }
 }
-/* ajustar a pantallas con ancho menor o igual a 775px; */
-/* ajustar a pantallas con ancho menor o igual a 775px; */
